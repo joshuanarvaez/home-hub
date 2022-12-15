@@ -8,7 +8,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
-![Alt text](/src/assets/images/screenshot.png?raw=true "Home Hub Screenshot")
+![Alt text](/assets/images/screenshot.png?raw=true "Home Hub Screenshot")
 
  Live demo: https://jn-home-hub.vercel.app/   
 
