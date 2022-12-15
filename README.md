@@ -8,7 +8,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
-![Alt text](/src/assets/screenshot.png?raw=true "Travel Mate Screenshot")
+![Alt text](/src/assets/screenshot.png?raw=true "Home Hub Screenshot")
 
  Live demo: https://jn-home-hub.vercel.app/   
 
